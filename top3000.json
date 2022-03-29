@@ -1,3 +1,50 @@
 [
-  { word: "Hello" }
+   {
+      "word":"abandon",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abandon-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1593810122602-832e8ee37714?w=400&q=60",
+      "partOfSpeech":"verb",
+      "translates":[
+         "покинути",
+         "відмовлятися від",
+         "віддаватися"
+      ],
+      "meanings":[
+         {
+            "definition":"abandon somebody to leave someone, especially someone you are responsible for, with no intention of returning",
+            "examples":[
+               "The baby had been abandoned by its mother.",
+               "People often simply abandon their pets when they go on vacation."
+            ]
+         },
+         {
+            "definition":"to leave a thing or place, especially because it is impossible or dangerous to stay",
+            "examples":[
+               "Snow forced many drivers to abandon their vehicles.",
+               "He gave the order to abandon ship"
+            ]
+         },
+         {
+            "definition":"to stop supporting or helping someone; to stop believing in something",
+            "examples":[
+               "The country abandoned its political leaders after the war.",
+               "By 1930 he had abandoned his Marxist principles."
+            ]
+         },
+         {
+            "definition":"abandon something to stop doing something, especially before it is finished; to stop having something",
+            "examples":[
+               "They abandoned the game because of rain.",
+               "She abandoned hope of any reconciliation.",
+               "We had to abandon any further attempt at negotiation."
+            ]
+         },
+         {
+            "definition":"abandon yourself to something (literary) to feel an emotion so strongly that you can feel nothing else",
+            "examples":[
+               "He abandoned himself to despair."
+            ]
+         }
+      ]
+   }
 ]
