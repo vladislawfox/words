@@ -1,5 +1,51 @@
 [
    {
+      "id":0,
+      "word":"a",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/a-1-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1510913415497-e34c432bd039?w=400&q=60",
+      "partOfSpeech":"indefinite_article",
+      "translates":[
+         "неозначений артикль"
+      ],
+      "meanings":[
+         {
+            "definition":"used before countable or singular nouns referring to people or things that have not already been mentioned",
+            "examples":[
+               "a man/horse/unit",
+               "an aunt/egg/hour/X-ray"
+            ]
+         },
+         {
+            "definition":"used before uncountable nouns when these have an adjective in front of them, or phrase following them",
+            "examples":[
+               "a good knowledge of French",
+               "a sadness that won't go away"
+            ]
+         },
+         {
+            "definition":"used to show that someone or something is a member of a group or profession",
+            "examples":[
+               "Their new car's a BMW.",
+               "He's a teacher."
+            ]
+         },
+         {
+            "definition":"used in front of two nouns that are seen as a single unit",
+            "examples":[
+               "a knife and fork"
+            ]
+         },
+         {
+            "definition":"used before someone's name to show that the speaker does not know the person",
+            "examples":[
+               "There's a Mrs. Green here to see you."
+            ]
+         }
+      ]
+   },
+   {
+      "id":1,
       "word":"abandon",
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abandon-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1593810122602-832e8ee37714?w=400&q=60",
@@ -43,6 +89,272 @@
             "definition":"abandon yourself to something (literary) to feel an emotion so strongly that you can feel nothing else",
             "examples":[
                "He abandoned himself to despair."
+            ]
+         }
+      ]
+   },
+   {
+      "id":2,
+      "word":"abandoned",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abandoned-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1556534397-927835f4e7bd?w=400&q=60",
+      "partOfSpeech":"adjective",
+      "translates":[
+         "покинутий",
+         "бездоглядний",
+         "залишений"
+      ],
+      "meanings":[
+         {
+            "definition":"left and not wanted, not used, or no longer needed",
+            "examples":[
+               "an abandoned car/house",
+               "The child was found abandoned but unharmed.",
+               "There was an abandoned grocery cart in the middle of the road."
+            ]
+         },
+         {
+            "definition":"(of people or their behavior) wild; not following accepted standards",
+            "examples":[
+               
+            ]
+         }
+      ]
+   },
+   {
+      "id":3,
+      "word":"ability",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/ability-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1515191107209-c28698631303?w=400&q=60",
+      "partOfSpeech":"noun",
+      "translates":[
+         "здатність",
+         "здібність"
+      ],
+      "meanings":[
+         {
+            "definition":"[singular] ability to do something the fact that someone or something is able to do something",
+            "examples":[
+               "The system has the ability to run more than one program at the same time.",
+               "Everyone has the right to good medical care regardless of their ability to pay.",
+               "A gentle form of exercise will increase your ability to relax."
+            ]
+         },
+         {
+            "definition":"[countable, uncountable] a level of skill or intelligence",
+            "examples":[
+               "Almost everyone has some musical ability.",
+               "He was a man of extraordinary abilities.",
+               "students of mixed abilities",
+               "A woman of her ability will easily find a job.",
+               "I try to do my job to the best of my ability (= as well as I can)."
+            ]
+         }
+      ]
+   },
+   {
+      "id":4,
+      "word":"able",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/able-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1583297501590-29bf1ce18f38?w=400&q=60",
+      "partOfSpeech":"adjective",
+      "translates":[
+         "здатний",
+         "спроможни"
+      ],
+      "meanings":[
+         {
+            "definition":"able to do something (used as a modal verb) to have the skill, intelligence, opportunity, etc. needed to do something",
+            "examples":[
+               "You must be able to speak French for this job.",
+               "A viral illness left her barely able to walk.",
+               "I didn't feel able to disagree with him.",
+               "Will you be able to come?"
+            ]
+         },
+         {
+            "definition":"intelligent; good at something",
+            "examples":[
+               "the ablest student in the class",
+               "We aim to help the less able in society to lead an independent life."
+            ]
+         }
+      ]
+   },
+   {
+      "id":5,
+      "word":"about",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/about-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1600007283728-22abc97b9318?w=400&q=60",
+      "partOfSpeech":"adverb",
+      "translates":[
+         "про",
+         "приблизно",
+         "біля"
+      ],
+      "meanings":[
+         {
+            "definition":"a little more or less than; a little before or after",
+            "examples":[
+               "It costs about $10.",
+               "They waited (for) about an hour.",
+               "He arrived (at) about ten."
+            ]
+         },
+         {
+            "definition":"nearly; very close to",
+            "examples":[
+               "I'm just about ready.",
+               "This is about the best we can hope for."
+            ]
+         },
+         {
+            "definition":"(technology or formal) facing the opposite direction",
+            "examples":[
+               "He brought the ship about."
+            ]
+         }
+      ]
+   },
+   {
+      "id":6,
+      "word":"above",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/above-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1591951086184-48aaaf065842?w=400&q=60",
+      "partOfSpeech":"preposition",
+      "translates":[
+         "над",
+         "вище"
+      ],
+      "meanings":[
+         {
+            "definition":"at or to a higher place or position than something or someone",
+            "examples":[
+               "The water came above our knees.",
+               "We were flying above the clouds.",
+               "the people in the apartment above mine",
+               "A captain in the navy ranks above a captain in the army.",
+               "They finished the year six places above their local rivals."
+            ]
+         },
+         {
+            "definition":"more than something; greater in number, level, or age than someone or something",
+            "examples":[
+               "Inflation is above 6%.",
+               "Temperatures have been above average.",
+               "We cannot accept children above the age of 10."
+            ]
+         },
+         {
+            "definition":"of greater importance or of higher quality than someone or something",
+            "examples":[
+               "I rate her above most other players of her age."
+            ]
+         },
+         {
+            "definition":"too good or too honest to do something",
+            "examples":[
+               "She's not above lying when it gets her out of trouble.",
+               "He's above suspicion (= he is completely trusted)."
+            ]
+         },
+         {
+            "definition":"(of a sound) louder or clearer than another sound",
+            "examples":[
+               "I couldn't hear her above the noise of the traffic."
+            ]
+         }
+      ]
+   },
+   {
+      "id":7,
+      "word":"abroad",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abroad-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1520466809213-7b9a56adcd45?w=400&q=60",
+      "partOfSpeech":"adverb",
+      "translates":[
+         "за кордоном",
+         "не вдома"
+      ],
+      "meanings":[
+         {
+            "definition":"in or to a foreign country",
+            "examples":[
+               "to be/go/travel/live abroad",
+               "She worked abroad for a year.",
+               "He was famous, both at home and abroad (= in his own country and in other countries)."
+            ]
+         },
+         {
+            "definition":"(formal) being talked about or felt by many people",
+            "examples":[
+               "There was news abroad that a change was coming."
+            ]
+         },
+         {
+            "definition":"(old use) outside; outdoors",
+            "examples":[
+               
+            ]
+         }
+      ]
+   },
+   {
+      "id":8,
+      "word":"absence",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/absence-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1599586189478-59fe5eeca43a?w=400&q=60",
+      "partOfSpeech":"noun",
+      "translates":[
+         "відсутність",
+         "відлучка"
+      ],
+      "meanings":[
+         {
+            "definition":"[uncountable, countable] the fact of someone being away from a place where they are usually expected to be; the occasion or period of time when someone is away",
+            "examples":[
+               "The decision was made in my absence (= while I was not there).",
+               "We did not receive any news during his long absence.",
+               "absence from… absence from work",
+               "repeated absences from school"
+            ]
+         },
+         {
+            "definition":"[uncountable] the fact of someone or something not existing or not being available; a lack of something",
+            "examples":[
+               "The case was dismissed in the absence of any definite proof.",
+               "the absence of any women on the board of directors"
+            ]
+         }
+      ]
+   },
+   {
+      "id":9,
+      "word":"absent",
+      "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/absent-1-us.mp3",
+      "imageUrl":"https://images.unsplash.com/photo-1596741687000-98f8ea0d8a52?w=400&q=60",
+      "partOfSpeech":"adjective",
+      "translates":[
+         "відсутній",
+         "неприсутній"
+      ],
+      "meanings":[
+         {
+            "definition":"absent (from something) not in a place because of illness, etc.",
+            "examples":[
+               "to be absent from school"
+            ]
+         },
+         {
+            "definition":"absent (from something) not present in something",
+            "examples":[
+               "absent (from something) not present in something"
+            ]
+         },
+         {
+            "definition":"showing that you are not really looking at or thinking about what is happening around you",
+            "examples":[
+               "an absent expression"
             ]
          }
       ]
