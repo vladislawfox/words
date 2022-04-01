@@ -5,6 +5,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/a-1-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1510913415497-e34c432bd039?w=400&q=60",
       "partOfSpeech":"indefinite_article",
+      "phonetic": "eɪ",
       "translates":[
          "неозначений артикль"
       ],
@@ -50,6 +51,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abandon-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1593810122602-832e8ee37714?w=400&q=60",
       "partOfSpeech":"verb",
+      "phonetic": "əˈbændən",
       "translates":[
          "покинути",
          "відмовлятися від",
@@ -99,6 +101,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abandoned-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1556534397-927835f4e7bd?w=400&q=60",
       "partOfSpeech":"adjective",
+      "phonetic": "əˈbændənd",
       "translates":[
          "покинутий",
          "бездоглядний",
@@ -127,6 +130,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/ability-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1515191107209-c28698631303?w=400&q=60",
       "partOfSpeech":"noun",
+      "phonetic": "əˈbɪlət̮i",
       "translates":[
          "здатність",
          "здібність"
@@ -158,6 +162,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/able-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1583297501590-29bf1ce18f38?w=400&q=60",
       "partOfSpeech":"adjective",
+      "phonetic": "ˈeɪbl",
       "translates":[
          "здатний",
          "спроможни"
@@ -187,6 +192,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/about-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1600007283728-22abc97b9318?w=400&q=60",
       "partOfSpeech":"adverb",
+      "phonetic": "əˈbaʊt",
       "translates":[
          "про",
          "приблизно",
@@ -222,6 +228,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/above-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1591951086184-48aaaf065842?w=400&q=60",
       "partOfSpeech":"preposition",
+      "phonetic": "əˈbʌv",
       "translates":[
          "над",
          "вище"
@@ -272,6 +279,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/abroad-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1520466809213-7b9a56adcd45?w=400&q=60",
       "partOfSpeech":"adverb",
+      "phonetic": "əˈbrɔd",
       "translates":[
          "за кордоном",
          "не вдома"
@@ -305,6 +313,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/absence-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1599586189478-59fe5eeca43a?w=400&q=60",
       "partOfSpeech":"noun",
+      "phonetic": "ˈæbsəns",
       "translates":[
          "відсутність",
          "відлучка"
@@ -334,6 +343,7 @@
       "audioUrl":"https://api.dictionaryapi.dev/media/pronunciations/en/absent-1-us.mp3",
       "imageUrl":"https://images.unsplash.com/photo-1596741687000-98f8ea0d8a52?w=400&q=60",
       "partOfSpeech":"adjective",
+      "phonetic": "ˈæbsənt",
       "translates":[
          "відсутній",
          "неприсутній"
